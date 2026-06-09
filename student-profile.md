@@ -12,11 +12,12 @@
 - Thời lượng: 8 tuần, ~224 giờ tổng
 
 ## Background kỹ thuật
-- Kinh nghiệm code: gần 3 năm (tính từ lúc đi học)
-- Ngôn ngữ chính: Java — tự đánh giá 3/5
-- Nền OOP: tốt, thuận lợi để chuyển sang Dart (typed, OOP gần Java)
+- Kinh nghiệm code thực tế: 3 THÁNG 
+- Ngôn ngữ chính: Java — tự đánh giá 2/5 
+- Nền OOP: ở mức cơ bản — biết class/object/kế thừa nhưng chưa nhiều kinh nghiệm thực chiến. Vẫn là lợi thế khi sang Dart (typed, OOP gần Java) nhưng KHÔNG nên coi là "nền vững"
 - Frontend/web: có làm qua HTML/CSS/JS nhưng chưa hiểu rõ; biết một chút React → nền frontend yếu
 - Mobile: chưa từng làm. Mới nghe tên Flutter, chưa biết Dart → người mới hoàn toàn với mobile
+- Tổng quan: junior thật sự (3 tháng nghề). Cần giảng chậm, nhiều ví dụ, không giả định em đã quen design pattern hay tooling.
 
 ## Lý do chọn Flutter (không phải React Native)
 - Nền frontend/JS yếu → React Native không phù hợp
@@ -44,6 +45,9 @@
 - Ngoài phạm vi: push notification, payment, publish store, build iOS thật
 
 ## Điểm mạnh / điểm yếu (cập nhật dần trong quá trình học)
-- Điểm mạnh: nền OOP Java vững → tiếp thu Dart, Widget tree, Provider thuận lợi
-- Điểm yếu: frontend tư duy UI/layout còn yếu → cần luyện kỹ Tuần 2-3
+- Điểm mạnh: có nền OOP Java cơ bản → đọc/viết Dart đỡ bỡ ngỡ. Thực tế Tuần 1: tự đọc hiểu code, tự sửa text, bài KT Dart CLI ĐẠT sớm 1 ngày (làm đúng async/await, 3 bậc thuế, class+List). Đây là tín hiệu tốt so với mốc 3 tháng kinh nghiệm.
+- Điểm yếu:
+  - Kinh nghiệm thực chiến mỏng (3 tháng) → các pattern lớn (Provider/state management, kiến trúc tách lớp) sẽ là khái niệm hoàn toàn mới, không có sẵn intuition. Cần đi chậm ở Tuần 5.
+  - Frontend/tư duy UI/layout yếu → vùng khó ở Tuần 2-3.
+- Đánh giá thực tế (2026-06-09): tự đánh giá 2/5 nhưng kết quả Tuần 1 cho thấy khả năng tiếp thu khá. Theo dõi sát Tuần 2-5 để xác định nhịp độ thật. Không kết luận vội.
 - Ghi chú: cập nhật sau mỗi tuần
