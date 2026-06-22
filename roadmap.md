@@ -9,8 +9,8 @@
 |---|---|---|---|---|
 | 1 | 2026-06-04 → 06-10 | Setup môi trường + Dart cơ bản: biến, kiểu, hàm, OOP, null safety, async/await | Dart CLI app tính toán có xử lý async + app Flutter mặc định chạy trên ROG Phone 5s | Đang làm |
 | 2 | 2026-06-11 → 06-17 | Flutter fundamentals: Widget tree, Stateless/StatefulWidget, layout (Column, Row, Stack, Container) | Màn hình profile tĩnh hoàn chỉnh từ mockup | Chưa bắt đầu |
-| 3 | 2026-06-18 → 06-24 | Navigation (GoRouter), truyền data giữa màn hình, ListView, asset/hình ảnh | Mini-app danh bạ tĩnh: list → detail | Chưa bắt đầu |
-| 4 | 2026-06-25 → 07-01 | Gọi REST API (http/dio), JSON parsing, FutureBuilder, loading/error state | App hiển thị danh sách bài viết từ API thật, có loading + error handling | Chưa bắt đầu |
+| 3 | 2026-06-18 → 06-24 | Navigation (GoRouter), truyền data giữa màn hình, ListView, asset/hình ảnh | Mini-app danh bạ tĩnh: list → detail | ĐẠT (chốt sớm 2 ngày) |
+| 4 | 2026-06-25 → 07-01 | Gọi REST API (http/dio), JSON parsing, FutureBuilder, loading/error state | App hiển thị danh sách bài viết từ API thật, có loading + error handling | Đang làm (khởi động sớm 06-22) |
 | 5 | 2026-07-02 → 07-08 | State management với Provider, tách logic khỏi UI, ChangeNotifier | App giỏ hàng đơn giản dùng Provider | Chưa bắt đầu |
 | 6 | 2026-07-09 → 07-15 | Form + validation, TextFormField, SharedPreferences (local storage) | Màn hình login/logout: validate input, lưu session, redirect | Chưa bắt đầu |
 | 7 | 2026-07-16 → 07-22 | API auth (Bearer token), CRUD đầy đủ (POST/PUT/DELETE), xử lý lỗi HTTP | Mini-app CRUD: login → list → thêm/sửa/xóa item qua API | Chưa bắt đầu |
